@@ -1,0 +1,6 @@
+.env
+*.7z
+*.hash
+*.pcap
+*.wav
+*.lst
